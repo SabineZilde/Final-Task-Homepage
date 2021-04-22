@@ -1,0 +1,50 @@
+.carousel-inner > .carousel-item {
+    height: 300px;
+    /* display: flex; */
+    /* align-items: center; */
+ }
+
+ .card-img {
+     height: 150px;
+     width: 150px;
+ }
+ 
+ .clearfix img {
+    height: 150px;
+    width: 150px;
+ }
+
+ #chat-window {
+     height: 250px;
+     overflow-y: scroll;
+ }
+
+ .psw-too-short {
+    /* display: none; */
+    width: 100%;
+    margin-top: .25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.psw-conf-fail {
+    /* display: none; */
+    width: 100%;
+    margin-top: .25rem;
+    font-size: .875em;
+    color: #dc3545;
+}
+
+.ui-tabs .ui-tabs-panel {
+    display: block;
+    border-width: 0;
+    padding: 1em;
+    background: none;
+}
+
+a.title {
+    text-decoration: none;
+    color: rgb(73, 72, 72);
+    font-weight: bold;
+    text-decoration: underline;
+};
