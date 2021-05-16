@@ -81,7 +81,3 @@ $('#validationCustomPasswordConf').on('keyup', function () {
 $(function () {
     $("#tabs").tabs({ event: "mouseover" });
 });
-
-$('.title').on('mouseover', function () {
-
-})
